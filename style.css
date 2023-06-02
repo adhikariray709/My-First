@@ -7,9 +7,9 @@ body {
 .logo {
     background-image: url("Kiran.jpg");
     background-size: cover;
-    background-position: center;
-    inline-size: 100px;
-    block-size: 100px;
+    background-position: right;
+    inline-size: 50px;
+    block-size: 50px;
     margin: 0 auto;
 }
 
@@ -17,7 +17,7 @@ header {
     background-color: #333;
     color: #fff;
     padding: 20px;
-    text-align: center;
+    text-align: start;
 }
 
 h1 {
